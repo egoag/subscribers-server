@@ -1,0 +1,26 @@
+{
+  "name": "subscribers-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egoag/Subscribers.git"
+  },
+  "author": "Hank Gao",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/egoag/Subscribers/issues"
+  },
+  "homepage": "https://github.com/egoag/Subscribers#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "parse5": "^6.0.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
